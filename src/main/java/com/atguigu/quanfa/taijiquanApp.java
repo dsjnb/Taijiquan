@@ -7,5 +7,6 @@ public class taijiquanApp {
         System.out.println("taijiquan11111111111");
         System.out.println("taijiquan11111111111");
         System.out.println("taijiquan11111111111");
+        System.out.println("taijiquan22222222222");
     }
 }
